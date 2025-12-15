@@ -21,7 +21,7 @@ Implementei uma camada de automação entre o Bot e a gestão da campanha:
 **Resultado:** O time de vendas passou a receber apenas leads **pré-qualificados** e com desconto validado.
 
 ## 🛠️ Tecnologias
-- **Backend:** Node.js.
+- **Backend:** Python.
 - **Integração:** Google API (Sheets v4).
 - **Autenticação:** Service Account (Google Cloud Platform).
 - **Logica de Negócio:** Validação de status, verificação de duplicidade e escrita atômica.
